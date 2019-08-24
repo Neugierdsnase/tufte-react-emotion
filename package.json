@@ -1,0 +1,32 @@
+{
+  "name": "tufte-emotion",
+  "version": "0.0.1",
+  "description": "React components based on tufte-css.",
+  "main": "tufte_emotion.js",
+  "scripts": {
+    "build": "tsc -v && tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neugierdsnase/tufte-react-emotion.git"
+  },
+  "keywords": [
+    "react",
+    "emotion",
+    "styling"
+  ],
+  "author": "Konstantin Kovar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Neugierdsnase/tufte-react-emotion/issues"
+  },
+  "homepage": "https://github.com/Neugierdsnase/tufte-react-emotion#readme",
+  "devDependencies": {
+    "@emotion/core": "^10.0.16",
+    "@emotion/styled": "^10.0.15",
+    "@types/react": "^16.9.2",
+    "emotion": "^10.0.14",
+    "react": "^16.9.0"
+  }
+}
